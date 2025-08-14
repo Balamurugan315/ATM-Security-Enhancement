@@ -1,0 +1,1 @@
+COntains folder named as account)number and images of the the account holder for training and verifiying purpsoses.
